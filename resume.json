@@ -1,0 +1,54 @@
+{
+    "name": "Ashish Hulkoti",
+    "location": "Chicago, Illinois",
+    "email": "ashishuscol@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/ashishhulkoti",
+    "phone": "3127929887",
+    "education": [
+        {
+            "degree": "Masters in Computer Science",
+            "gpa": "3.9",
+            "university": "Illinois Institute of Technology, Chicago, IL",
+            "year": "Aug 2023 - April 2025"
+        },
+        {
+            "degree": "Bachelor’s Degree in Computer Science",
+            "gpa": "3.76",
+            "university": "KLE Technological University, Karnataka, India",
+            "year": "Aug 2017 - May 2021"
+        }
+    ],
+    "skills": [
+        "Python", "Java", "SQL", "Amazon Web Services", "Microsoft Azure",
+        "PostgreSQL", "NoSQL", "MongoDB", "ElasticSearch", "Hadoop", "MySQL",
+        "Git", "Kafka", "Team-Oriented", "Collaboration", "Leadership", "Problem-solving"
+    ],
+    "projects": [
+        {
+            "title": "Student Evaluation Analysis",
+            "description": "Developed a K-Means Clustering model to analyze student evaluation data, identifying patterns in teaching effectiveness."
+        },
+        {
+            "title": "Bike Sharing Demand Analysis",
+            "description": "Built a Random Forest Regression model to predict bike-sharing demand using weather and user behavior data."
+        },
+        {
+            "title": "E-commerce Website for SmartHomes",
+            "description": "Developed a Python-based API and integrated search optimization with Elasticsearch."
+        }
+    ],
+    "experience": [
+        {
+            "company": "Accenture, India",
+            "role": "Senior Software Engineer",
+            "duration": "Aug 2021 - Jul 2023",
+            "responsibilities": [
+                "Developed conversational AI applications using C# .NET, Microsoft Bot Framework, and Azure.",
+                "Built REST APIs with Python for backend services.",
+                "Deployed AI chatbot solutions reducing handle time by 62%.",
+                "Enhanced user experience by 32% through efficient development."
+            ]
+        }
+    ],
+    "certifications": ["Microsoft Azure Fundamentals: AZ-900"]
+}
